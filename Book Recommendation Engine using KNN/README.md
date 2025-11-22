@@ -1,10 +1,15 @@
-# 📚 Book Recommendation System using KNN  
+<p align="center">
+  <h1>📚 Book Recommendation System using KNN</h1>
+</p>
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()  
-[![Licença](https://img.shields.io/badge/license-MIT-blue.svg)]()  
-[![Python](https://img.shields.io/badge/python-3.8%2B-yellow.svg)]()  
-[![Streamlit](https://img.shields.io/badge/Streamlit-ready-red.svg)]()  
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()  
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-success.svg" />
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" />
+  <img src="https://img.shields.io/badge/python-3.8%2B-yellow.svg" />
+  <img src="https://img.shields.io/badge/Streamlit-ready-red.svg" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+</p>
+
 
 🔍 Descrição do Projeto
 
