@@ -6,6 +6,11 @@
 # Dataset: Book-Crossings (1.1M ratings)
 # Framework Web: Streamlit
 # ===========================================================
+⚠️ Os arquivos CSV originais não são enviados ao GitHub por terem tamanho elevado.
+Utilize os links abaixo para baixar os dados:
+
+wget https://cdn.freecodecamp.org/project-data/book-recommendation-system/BX-Books.csv
+wget https://cdn.freecodecamp.org/project-data/book-recommendation-system/BX-Book-Ratings.csv
 
 import streamlit as st
 import pandas as pd
